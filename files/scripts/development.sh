@@ -1,0 +1,1 @@
+NODE_ENV=development npx webpack-dev-server --config scripts/webpack.conf.js

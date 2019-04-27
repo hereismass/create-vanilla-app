@@ -1,0 +1,1 @@
+NODE_ENV=production npx webpack --config scripts/webpack.conf.js

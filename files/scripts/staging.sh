@@ -1,0 +1,1 @@
+NODE_ENV=staging npx webpack --config scripts/webpack.conf.js
