@@ -1,0 +1,25 @@
+{
+  "name": "create-vanilla-app",
+  "version": "1.0.0",
+  "description": "Tool to generate a vanillaJs app in a fresh github repo",
+  "main": "index.js",
+  "repository": "https://github.com/hereismass/create-vanilla-app.git",
+  "author": "Massimo Zambelli <mass.zambelli@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "cva": "./index.js"
+  },
+  "devDependencies": {
+    "@octokit/rest": "^16.25.0",
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.1",
+    "simple-git": "^1.110.0",
+    "clui": "^0.3.6",
+    "configstore": "^4.0.0",
+    "inquirer": "^6.3.1",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "touch": "^3.1.0"
+  }
+}
